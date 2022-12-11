@@ -1,6 +1,6 @@
 --[[
     @name Combat Warriors Programming & Management Application, Technical Demonstration, Rodux, Monetization
-    @author Michael Loconte (michael@ignitionswitch.games)
+    @author Michael (Absumption) (absumptioncantcode@gmail.com)
     @description
         This file is part of the CW-P&MA Repository and is used to provide
         fabricated/dummy monetization data for the purpose of showcasing Rodux
