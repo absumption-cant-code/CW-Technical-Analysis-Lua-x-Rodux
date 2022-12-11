@@ -1,6 +1,6 @@
 --[[
     @name Combat Warriors Programming & Management Application, Technical Demonstration, Rodux, Server
-    @author Michael Loconte (michael@ignitionswitch.games)
+    @author Michael (Absumption) (absumptioncantcode@gmail.com)
     @description
         This file is part of the CW-P&MA Repository and is used to demonstrate
         my familitarity and knowledge of Rodux as well as my personal code styling
