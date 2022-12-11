@@ -12,7 +12,7 @@ Next, open `Technical-Analysis-Lua.rbxlx` in Roblox Studio and test play with yo
 
 You should see the following within your console,
 
-```JSON
+```lua
 {
     User = {
         name = "Absumption" (string)
